@@ -1,6 +1,8 @@
+# Create duplicate for circle
 
 - product : __Adobe Illustrator__
 - source link : https://github.com/RedgooseDev/adobe-script/blob/master/illustrator/createDuplicateForCircle/createDuplicateForCircle.js
+- test version : CC.2017
 
 위 이미지와같은 원형의 패턴을 만들고 싶은데 일러스트레이터 기본적인 방법으로는 사이즈가 커지는 문제가 일어나서 내가 원하는 형태의 패턴이 만들어지지가 않았다.
 

@@ -1,6 +1,3 @@
-// tested by Adobe Illustrator CC 2017
-
-
 // creating a document
 var doc = null;
 if ( app.documents && app.documents.length > 0 ) {

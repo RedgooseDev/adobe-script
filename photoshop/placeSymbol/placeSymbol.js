@@ -1,6 +1,3 @@
-// tested by Adobe Photoshop CC 2017
-
-
 function getLayerSize(layer) {
     var lengthWidth = layer.bounds[2]-layer.bounds[0];
     var lengthHeight = layer.bounds[3]-layer.bounds[1];
